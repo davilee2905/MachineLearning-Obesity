@@ -72,8 +72,7 @@ MachineLearning-Obesity/
 │   └── README.md              # Documentação específica para a parte de modelagem
 │
 └── README.md                  # Este arquivo (visão geral do projeto)
-# MachineLearning-Obesity
-
+```
 ## Requisitos
 
 - **Python 3.8+**
