@@ -72,3 +72,28 @@ MachineLearning-Obesity/
 │   └── README.md              # Documentação específica para a parte de modelagem
 │
 └── README.md                  # Este arquivo (visão geral do projeto)
+# MachineLearning-Obesity
+
+## Requisitos
+
+- **Python 3.8+**
+- **Jupyter Notebook/JupyterLab:** Necessário para a execução e visualização dos notebooks.
+- **Bibliotecas Python:**
+  - `pandas`
+  - `numpy`
+  - `scikit-learn`
+  - `matplotlib` / `seaborn`
+- Outras dependências podem estar listadas em arquivos `requirements.txt` específicos nos diretórios correspondentes.
+
+---
+
+## Instalação
+
+1. **Clone o repositório:**
+
+   ```bash
+   git clone https://github.com/davilee2905/MachineLearning-Obesity.git
+   cd MachineLearning-Obesity```
+   
+
+
