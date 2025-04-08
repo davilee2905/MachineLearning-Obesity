@@ -96,9 +96,9 @@ MachineLearning-Obesity/
 
 2. **Crie e ative um ambiente virtual (opcional, mas recomendado):**
    ```bash
-  python -m venv venv
-  source venv/bin/activate  # Linux/macOS
-  venv\Scripts\activate     # Windows```
+python -m venv venv
+source venv/bin/activate  # Linux/macOS
+venv\Scripts\activate     # Windows```
 
 2. **Instale as dependências **
 ```bash
