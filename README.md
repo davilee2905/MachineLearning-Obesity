@@ -93,6 +93,14 @@ MachineLearning-Obesity/
    ```bash
    git clone https://github.com/davilee2905/MachineLearning-Obesity.git
    cd MachineLearning-Obesity```
-   
 
+2. **Crie e ative um ambiente virtual (opcional, mas recomendado):**
+   ```bash
+  python -m venv venv
+  source venv/bin/activate  # Linux/macOS
+  venv\Scripts\activate     # Windows```
+
+2. **Instale as dependências **
+```bash
+pip install -r requirements.txt```
 
